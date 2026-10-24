@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-%23E80C59E0.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<!--
 <br>
 
 <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=distantbytes&layout=donut&theme=shadow_blue&card_width=450" alt="">
-
+-->
 </div>
