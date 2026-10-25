@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-distantbytes-%23121011?style=for-the-badge&logo=github)](https://github.com/distantbytes)
 [![Codeberg](https://img.shields.io/badge/Codeberg-distantbytes-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/distantbytes)
+[![GitHub](https://img.shields.io/badge/GitHub-distantbytes-%23121011?style=for-the-badge&logo=github)](https://github.com/distantbytes)
 ![Bilibili](https://img.shields.io/badge/bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)
 <br>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
